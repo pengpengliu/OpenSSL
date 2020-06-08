@@ -27,6 +27,7 @@
 #include <openssl/sha.h>
 #include <openssl/hmac.h>
 #include <openssl/rand.h>
+#include <openssl/ripemd.h>
 #include <openssl/pkcs12.h>
 #include <openssl/x509v3.h>
 
